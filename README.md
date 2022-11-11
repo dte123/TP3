@@ -6,3 +6,7 @@
 
 ## Git Repo
 https://github.com/dte123/TP3.git
+
+## Explication
+- Le fichier `jfreechart-stats_original.csv` est le fichier `csv` d'origine fourni dans le devoir 
+- Le fichier `jfreechart-stats_calcule.csv` est le fichier `csv` utilisés pour calculer les informations associées

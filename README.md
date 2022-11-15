@@ -11,3 +11,4 @@ https://github.com/dte123/TP3.git
 - Tous les calculs et images sont basés sur Excel
 - Le fichier `jfreechart-stats_original.csv` est le fichier `csv` d'origine fourni dans le devoir 
 - Le fichier `jfreechart-stats_calcule.csv` est le fichier `csv` utilisés pour calculer les informations associées
+- `rapport_TP3.pdf` est le rapport final.
